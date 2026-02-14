@@ -103,3 +103,17 @@ Increasing Debt-to-Equity → Higher Financial Risk → Lower Valuation Multiple
 This project bridges financial statement analysis with real-world market performance.
 
 It demonstrates how corporate fundamentals directly influence valuation and investor behavior through data-driven insights.
+
+---
+
+## 📸 Dashboard Preview  
+
+<img src="screenshots/Story-1.png" width="800">
+
+<img src="screenshots/Story-2.png" width="800">
+
+<img src="screenshots/Story-3.png" width="800">
+
+<img src="screenshots/Story-4.png" width="800">
+
+<img src="screenshots/Story-5.png" width="800">
